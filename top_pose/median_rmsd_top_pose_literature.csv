@@ -1,0 +1,17 @@
+,dock_func,rescore_func,median,runid,origin
+0,plp,plp,1,0,literature
+1,plp,asp,0.9,0,literature
+2,plp,chemscore,0.8,0,literature
+3,plp,goldscore,0.8,0,literature
+4,asp,plp,1.5,0,literature
+5,asp,asp,2.1,0,literature
+6,asp,chemscore,1.3,0,literature
+7,asp,goldscore,0.9,0,literature
+8,chemscore,plp,0.9,0,literature
+9,chemscore,asp,2.1,0,literature
+10,chemscore,chemscore,2.4,0,literature
+11,chemscore,goldscore,0.8,0,literature
+12,goldscore,plp,0.7,0,literature
+13,goldscore,asp,0.8,0,literature
+14,goldscore,chemscore,1.8,0,literature
+15,goldscore,goldscore,1.7,0,literature

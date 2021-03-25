@@ -1,0 +1,152 @@
+,pdb,comp_id,link,provenance_code,type,unit,value
+0,2BDG,,,,,,
+1,4G46,TTY,http://www.bindingmoad.org/pdbrecords/index/4g46,Binding MOAD,Kd,nM,3000000.0
+2,4YRW,,,,,,
+3,3L4L,,,,,,
+4,1Y2C,3DE,http://www.bindingmoad.org/pdbrecords/index/1y2c,Binding MOAD,IC50,nM,270.0
+5,1Y2C,3DE,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=1y2c,PDBBind,IC50,nM,270.0
+6,4LVB,20N,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4LVB,BindingDB,Kd,nM,78000.0
+7,3ESS,18N,http://www.bindingmoad.org/pdbrecords/index/3ess,Binding MOAD,IC50,nM,411.0
+8,3ESS,18N,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3ess,PDBBind,IC50,nM,411.0
+9,4I6B,11G,http://www.bindingmoad.org/pdbrecords/index/4i6b,Binding MOAD,IC50,nM,1450.0
+10,4I6B,11G,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=4i6b,PDBBind,IC50,nM,1170.0
+11,3BU1,HSM,http://www.bindingmoad.org/pdbrecords/index/3bu1,Binding MOAD,Kd,nM,7.099999904632568
+12,3BU1,HSM,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3bu1,PDBBind,Kd,nM,7.099999904632568
+13,3FTV,11X,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3FTV,BindingDB,IC50,nM,1667000.0
+14,3FTV,11X,http://www.bindingmoad.org/pdbrecords/index/3ftv,Binding MOAD,IC50,nM,1667000.0
+15,3FTV,11X,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3ftv,PDBBind,IC50,nM,1167000.0
+16,3FTV,11X,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3FTV,BindingDB,IC50,nM,1321000.0
+17,4XHB,,,,,,
+18,4WY1,3VO,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4WY1,BindingDB,IC50,nM,265.0
+19,4WY1,3VO,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4WY1,BindingDB,IC50,nM,5100.0
+20,4WY1,3VO,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4WY1,BindingDB,IC50,nM,6700.0
+21,4WY1,3VO,http://www.bindingmoad.org/pdbrecords/index/4wy1,Binding MOAD,IC50,nM,5800.0
+22,5ILW,,,,,,
+23,4G28,0W8,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4G28,BindingDB,Ki,nM,50000.0
+24,2X8D,X8D,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2x8d,PDBBind,IC50,nM,800.0
+25,2X8D,X8D,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=2X8D,BindingDB,IC50,nM,800.0
+26,2X8D,X8D,http://www.bindingmoad.org/pdbrecords/index/2x8d,Binding MOAD,IC50,nM,800.0
+27,4J9W,,,,,,
+28,3SRB,28S,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3srb,PDBBind,IC50,nM,65000.0
+29,3SRB,28S,http://www.bindingmoad.org/pdbrecords/index/3srb,Binding MOAD,IC50,nM,65000.0
+30,3SRB,28S,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3SRB,BindingDB,IC50,nM,65000.0
+31,2J7Y,,,,,,
+32,1UKA,,,,,,
+33,4C6X,TLM,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4C6X,BindingDB,Kd,nM,226000.0
+34,4C6X,TLM,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4C6X,BindingDB,Ki,nM,1900.0
+35,4C6X,TLM,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=4c6x,PDBBind,Ki,nM,175400.0
+36,4C6X,TLM,http://www.bindingmoad.org/pdbrecords/index/4c6x,Binding MOAD,Ki,nM,175000.0
+37,4C6X,TLM,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4C6X,BindingDB,Ki,nM,175400.0
+38,4MNI,,,,,,
+39,2RC9,1AC,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2rc9,PDBBind,IC50,nM,40.0
+40,2CFI,,,,,,
+41,1TUV,,,,,,
+42,3MZ9,,,,,,
+43,4Y4E,,,,,,
+44,4KLW,,,,,,
+45,5AIB,KJU,http://www.bindingmoad.org/pdbrecords/index/5aib,Binding MOAD,IC50,nM,160000.0
+46,4ZSG,,,,,,
+47,2VPN,4CS,http://www.bindingmoad.org/pdbrecords/index/2vpn,Binding MOAD,Kd,nM,190.0
+48,2VPN,4CS,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2vpn,PDBBind,Kd,nM,190.0
+49,2YK1,NCT,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2yk1,PDBBind,Kd,nM,7.400000095367432
+50,2YK1,NCT,http://www.bindingmoad.org/pdbrecords/index/2yk1,Binding MOAD,Kd,nM,7.400000095367432
+51,4OWU,,,,,,
+52,3MS9,MS9,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3ms9,PDBBind,Kd,nM,6000.0
+53,4AHU,ICO,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=4ahu,PDBBind,Kd,nM,5400000.0
+54,2X0U,,,,,,
+55,3R4M,WOE,http://www.bindingmoad.org/pdbrecords/index/3r4m,Binding MOAD,Ki,nM,1200.0
+56,3R4M,WOE,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3R4M,BindingDB,Kd,nM,350.0
+57,3R4M,WOE,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3r4m,PDBBind,Ki,nM,1200.0
+58,3R4M,WOE,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3R4M,BindingDB,Ki,nM,1200.0
+59,4XNE,,,,,,
+60,5FNQ,S0W,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=5FNQ,BindingDB,IC50,nM,1000000.0
+61,4D6S,,,,,,
+62,5EP3,,,,,,
+63,2FP2,,,,,,
+64,4K5Z,1P7,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=4k5z,PDBBind,IC50,nM,1000000.0
+65,4K5Z,1P7,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4K5Z,BindingDB,IC50,nM,1000000.0
+66,4E70,N7I,http://www.bindingmoad.org/pdbrecords/index/4e70,Binding MOAD,Kd,nM,2940.0
+67,4N1N,,,,,,
+68,4YJI,,,,,,
+69,4YAB,4CN,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4YAB,BindingDB,IC50,nM,8500.0
+70,4YAB,4CN,http://www.bindingmoad.org/pdbrecords/index/4yab,Binding MOAD,IC50,nM,8500.0
+71,4P7X,,,,,,
+72,4UVO,,,,,,
+73,4CZH,,,,,,
+74,4N7C,AEF,http://www.bindingmoad.org/pdbrecords/index/4n7c,Binding MOAD,Ka,M^-1,22200000.0
+75,1Q11,,,,,,
+76,3VGN,,,,,,
+77,3MYK,,,,,,
+78,3P1F,3PF,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3P1F,BindingDB,IC50,nM,29400.0
+79,3P1F,3PF,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3P1F,BindingDB,Kd,nM,37700.0
+80,3P1F,3PF,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3P1F,BindingDB,Kd,nM,310000.0
+81,3P1F,3PF,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3P1F,BindingDB,Kd,nM,103000.0
+82,3P1F,3PF,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3P1F,BindingDB,Kd,nM,50300.0
+83,4EUO,ABU,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=4euo,PDBBind,Kd,nM,9000.0
+84,4WMW,3R6,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4WMW,BindingDB,IC50,nM,160000.0
+85,3PXK,,,,,,
+86,4X0M,,,,,,
+87,2RIN,ACH,http://www.bindingmoad.org/pdbrecords/index/2rin,Binding MOAD,Kd,nM,145000.0
+88,2RIN,ACH,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2rin,PDBBind,Kd,nM,100000.0
+89,4I6Q,1DT,http://www.bindingmoad.org/pdbrecords/index/4i6q,Binding MOAD,IC50,nM,30.0
+90,4I6Q,1DT,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=4i6q,PDBBind,IC50,nM,30.0
+91,4I6Q,1DT,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4I6Q,BindingDB,IC50,nM,30.0
+92,4OYI,1VK,http://www.bindingmoad.org/pdbrecords/index/4oyi,Binding MOAD,IC50,nM,19000.0
+93,5F6W,5VL,http://www.bindingmoad.org/pdbrecords/index/5f6w,Binding MOAD,IC50,nM,5800000.0
+94,3CHC,ZRG,http://www.bindingmoad.org/pdbrecords/index/3chc,Binding MOAD,Ki,nM,81000.0
+95,3CHC,ZRG,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3chc,PDBBind,IC50,nM,81000.0
+96,5F25,5TU,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=5F25,BindingDB,IC50,nM,9338.0
+97,5F25,5TU,http://www.bindingmoad.org/pdbrecords/index/5f25,Binding MOAD,Kd,nM,9100.0
+98,5F25,5TU,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=5F25,BindingDB,Kd,nM,9100.0
+99,3ODG,,,,,,
+100,1QY2,IPZ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=1QY2,BindingDB,-T&Delta;S,kJ/mol,17.90999984741211
+101,1QY2,IPZ,http://www.bindingmoad.org/pdbrecords/index/1qy2,Binding MOAD,Kd,nM,1800.0
+102,1QY2,IPZ,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=1qy2,PDBBind,Kd,nM,1800.0
+103,1QY2,IPZ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=1QY2,BindingDB,&Delta;G,kJ/mol,23.100000381469727
+104,1QY2,IPZ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=1QY2,BindingDB,-T&Delta;S,kJ/mol,10.65999984741211
+105,1QY2,IPZ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=1QY2,BindingDB,-T&Delta;S,kJ/mol,17.100000381469727
+106,1QY2,IPZ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=1QY2,BindingDB,&Delta;G,kJ/mol,33.900001525878906
+107,1QY2,IPZ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=1QY2,BindingDB,&Delta;G,kJ/mol,17.200000762939453
+108,3EBO,57D,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3ebo,PDBBind,Ki,nM,19010.0
+109,5E9I,,,,,,
+110,4QNA,X11,http://www.bindingmoad.org/pdbrecords/index/4qna,Binding MOAD,IC50,nM,23.0
+111,3GKZ,B40,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3gkz,PDBBind,Kd,nM,10.0
+112,3GKZ,B40,http://www.bindingmoad.org/pdbrecords/index/3gkz,Binding MOAD,Kd,nM,10.0
+113,4YPX,4FG,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4YPX,BindingDB,IC50,nM,25119.0
+114,5FRV,,,,,,
+115,4ZSI,,,,,,
+116,4H9G,,,,,,
+117,4MRH,2CQ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4MRH,BindingDB,Kd,nM,5400000.0
+118,4MRH,2CQ,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=4MRH,BindingDB,Kd,nM,12600000.0
+119,4MRH,2CQ,http://www.bindingmoad.org/pdbrecords/index/4mrh,Binding MOAD,Kd,nM,12600000.0
+120,2W6P,OA4,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2w6p,PDBBind,IC50,nM,333.0
+121,2W6P,OA4,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=2W6P,BindingDB,IC50,nM,333.0
+122,2W6P,OA4,http://www.bindingmoad.org/pdbrecords/index/2w6p,Binding MOAD,IC50,nM,333.0
+123,4EKP,,,,,,
+124,4CCW,,,,,,
+125,4RLQ,,,,,,
+126,5D7X,XZ8,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=5D7X,BindingDB,Kd,nM,15000.0
+127,5D7X,XZ8,http://www.bindingmoad.org/pdbrecords/index/5d7x,Binding MOAD,Kd,nM,15000.0
+128,2DZA,,,,,,
+129,2P9A,YE6,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=2P9A,BindingDB,IC50,nM,58000.0
+130,2P9A,YE6,http://www.bindingmoad.org/pdbrecords/index/2p9a,Binding MOAD,IC50,nM,6560.0
+131,2P9A,YE6,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=2P9A,BindingDB,IC50,nM,1160.0
+132,2P9A,YE6,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=2P9A,BindingDB,IC50,nM,77100.0
+133,2P9A,YE6,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2p9a,PDBBind,IC50,nM,6560.0
+134,2P9A,YE6,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=2P9A,BindingDB,IC50,nM,6560.0
+135,2P9A,YE6,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=2P9A,BindingDB,IC50,nM,5780.0
+136,2I5X,,,,,,
+137,3UWK,0DF,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3uwk,PDBBind,IC50,nM,58000.0
+138,3UWK,0DF,http://www.bindingmoad.org/pdbrecords/index/3uwk,Binding MOAD,IC50,nM,58000.0
+139,3IXL,,,,,,
+140,4NQ8,,,,,,
+141,4JYM,KKN,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=4jym,PDBBind,Kd,nM,9050.0
+142,2YC3,MW5,http://www.bindingmoad.org/pdbrecords/index/2yc3,Binding MOAD,IC50,nM,140.0
+143,2YC3,MW5,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2yc3,PDBBind,IC50,nM,140.0
+144,2WEI,VGG,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=2wei,PDBBind,IC50,nM,3.4000000953674316
+145,2WEI,VGG,http://www.bindingmoad.org/pdbrecords/index/2wei,Binding MOAD,IC50,nM,3.4000000953674316
+146,3R8P,,,,,,
+147,3UZJ,0CT,http://www.pdbbind-cn.org/quickpdb.php?quickpdb=3uzj,PDBBind,Ki,nM,2820.0
+148,3GOC,,,,,,
+149,3E62,5B1,http://www.bindingdb.org/jsp/dbsearch/PrimarySearch_pdbids.jsp?pdbids_submit=Search&pdbids=3E62,BindingDB,IC50,nM,40900.0
+150,3E62,5B1,http://www.bindingmoad.org/pdbrecords/index/3e62,Binding MOAD,IC50,nM,40900.0
